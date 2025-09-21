@@ -1,0 +1,50 @@
+[
+  {
+    "name": "VibeHive - Social Forum Platform",
+    "image": "https://i.ibb.co.com/Z1625jXc/Screenshot-2025-07-16-154551.png",
+    "technologies": ["React", "Firebase", "Express.js", "MongoDB","Vercel"],
+    "description": "A dynamic social forum platform that enables users to connect through meaningful conversations and shared experiences. Built with React.js and powered by Firebase.",
+    "features": [
+      "Personalized profiles with user information and activity history",
+      "Users can create, edit, and delete their own posts",
+      "Comprehensive tools for platform management",
+      "Tools to manage reported comments and inappropriate content",
+      "Users receive notifications for relevant activities"
+    ],
+    "liveDemo": "https://vibehive-xi.vercel.app/",
+    "repository": "https://github.com/sabbir-islam/VibeHive-Forum?tab=readme-ov-file"
+  },
+  {
+    "name": "Jointly - Event Management Platform",
+    "image": "https://i.ibb.co.com/Mkj8ShZz/image.png",
+    "technologies": ["React", "Firebase", "Express.js", "MongoDB","Vercel"],
+    "description": "A modern, responsive event management platform built with React that allows users to create, manage, and join community events. The platform features user authentication, event filtering, and a beautiful UI with animations.",
+    "features": [
+      "Authenticated users can create new events",
+      "Modify existing events you've created",
+      "Filter events by type (Workshop, Conference, Meetup, etc.)",
+      "Find events by title or description",
+      "Register for events you're interested in",
+      "See events you've registered for"
+    ],
+    "liveDemo": "https://jointly-event.vercel.app/",
+    "repository": "https://github.com/sabbir-islam/Jointly-Event-manager"
+  },
+  {
+  "name": "ShopMate - Shop Inventory Management System",
+  "image": "https://i.ibb.co.com/1GjGYFqV/image.png",
+  "technologies": ["React", "Firebase", "Express.js", "MongoDB", "Vercel"],
+  "description": "A modern, responsive inventory management system designed to help shopkeepers efficiently organize and manage their shop operations. The platform supports product tracking, sales record management, and employee supervision, making day-to-day business tasks seamless and hassle-free.",
+  "features": [
+    "Add and manage product listings with details such as name, price, and stock",
+    "Track sales records and generate reports",
+    "Manage employee information and roles",
+    "Update product stock in real-time after each sale",
+    "Search and filter products by name or category",
+    "Secure user authentication for shop owners and employees"
+  ],
+  "liveDemo": "https://shopmate-inventory.vercel.app/",
+  "repository": "https://github.com/sabbir-islam/shop-mate-client"
+}
+
+]
